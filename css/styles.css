@@ -5,6 +5,8 @@
 
 body{
     background-color: darkgrey;
+
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 .altura{
@@ -16,5 +18,20 @@ body{
 }
 
 .navegation{
-    height: 3rem;
+    height: 3em;
+    text-align: center;
+    /* align-content: center;
+    align-items: center; */
+}
+
+.title{
+    font-size: 2em;
+}
+
+.sechudle {
+    text-align: right;
+}
+
+#ramen{
+    align-content: end;
 }
