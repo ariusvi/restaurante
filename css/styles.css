@@ -2,7 +2,19 @@
     margin: 0;
     padding: 0;
 }
-.altura{
-    height: 100vh;
+
+body{
+    background-color: darkgrey;
 }
 
+.altura{
+    height: 50vh;
+}
+
+.branding {
+    height: 6rem;
+}
+
+.navegation{
+    height: 3rem;
+}
